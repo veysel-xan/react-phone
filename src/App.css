@@ -1,0 +1,40 @@
+.App {
+  text-align: center;
+  width: 500px;
+margin: 0 auto;
+}
+
+input {
+  margin-top: 10px;
+  height: 25px;
+  line-height: 25px;
+  width: 100%;
+  text-indent: 10px;
+}
+.listArea{
+  margin: 0 auto;
+}
+ul,li {
+  list-style-type: none;
+  padding: 0px;
+  margin: 0px;
+}
+li {
+
+
+}
+
+.Listul {
+background-color: #edffca;
+}
+
+.Listul li {
+padding:5px;
+  border: 1px solid red;
+}
+.Listul  .name {
+  text-align: left;
+}
+.Listul  .telefon {
+text-align: right;
+}
